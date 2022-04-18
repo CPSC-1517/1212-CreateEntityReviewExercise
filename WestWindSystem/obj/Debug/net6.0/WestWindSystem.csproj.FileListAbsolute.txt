@@ -1,0 +1,14 @@
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.deps.json
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.dll
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.pdb
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.csproj.AssemblyReference.cache
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.AssemblyInfoInputs.cache
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.AssemblyInfo.cs
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.csproj.CoreCompileInputs.cache
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.dll
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\refint\WestWindSystem.dll
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.pdb
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\ref\WestWindSystem.dll
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.runtimeconfig.json
+C:\Users\samcwu\source\repos\WestwindCreateProductReviewExercise\WestwindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.genruntimeconfig.cache

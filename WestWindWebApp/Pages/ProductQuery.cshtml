@@ -1,0 +1,42 @@
+﻿@page
+@model WestWindWebApp.Pages.ProductQueryModel
+@{
+    ViewData["Title"] = "Product List";
+}
+<h1>Product List</h1>
+
+@if(Model.ProductList.Count > 0)
+{
+<table>
+    <thead>
+        <tr>
+            <th>ProductID</th>
+            <th>ProductName</th>
+            <th>Supplier</th>
+            <th>Category</th>
+            <th>Quantity Per Unit</th>
+            <th>Unit Price</th>
+            <th>Units On Order</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var product in Model.ProductList)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td><a asp-page="/ProductCrud" 
+                        asp-route-SelectedProductId="@product.ProductId">
+                        @product.ProductName
+                   </a>
+                </td>
+                <td>@product.Supplier.CompanyName</td>
+                <td>@product.Category.CategoryName</td>
+                <td>@product.QuantityPerUnit</td>
+                <td>@product.UnitPrice</td>
+                <td>@product.UnitsOnOrder</td>
+            </tr>
+        }
+    </tbody>
+
+</table>    
+}

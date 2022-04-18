@@ -1,0 +1,37 @@
+﻿@page "{SelectedProductId?}"
+@model WestWindWebApp.Pages.ProductCrudModel
+@{
+    ViewData["Title"] = "New Product";
+}
+<h1>New Product</h1>
+
+@if (Model.HasFeedback)
+{
+    <p style="color:forestgreen; font-weight: bold;"> @Model.FeedbackMessage</p>
+}
+
+@if (Model.HasError)
+{
+    <p style="color:firebrick; font-weight: bold;"> @Model.ErrorMessage</p>
+}
+
+<form method="post">
+    <!--TODO: Create the Product form with form fields for:
+        a) ProductName
+        b) SupplierId (use select control and add a empty option)
+        c) CategoryId (use select control and add a empty option)
+        d) QuantityPerUnit
+        e) MinimumOrderQuantity
+        f) UnitPrice
+        g) UnitsOnOrder
+    -->
+    
+    <button type="submit" asp-page-handler="AddProduct">Add Product</button>    
+    <button type="submit" asp-page-handler="Clear" formnovalidate>Clear</button>
+    
+</form>
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
